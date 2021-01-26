@@ -1,0 +1,49 @@
+﻿  ProiectPOO.cpp
+D:\Proiect ASE\ProiectPOO\ProiectPOO\ProiectPOO.h(49,21): warning C4018: '<': signed/unsigned mismatch
+D:\Proiect ASE\ProiectPOO\ProiectPOO\ProiectPOO.h(132,21): warning C4018: '<': signed/unsigned mismatch
+D:\Proiect ASE\ProiectPOO\ProiectPOO\ProiectPOO.h(172,21): warning C4018: '<': signed/unsigned mismatch
+D:\Proiect ASE\ProiectPOO\ProiectPOO\ProiectPOO.h(210,21): warning C4018: '<': signed/unsigned mismatch
+D:\Proiect ASE\ProiectPOO\ProiectPOO\ProiectPOO.h(217,21): warning C4018: '<': signed/unsigned mismatch
+D:\Proiect ASE\ProiectPOO\ProiectPOO\ProiectPOO.h(226,21): warning C4018: '<': signed/unsigned mismatch
+D:\Proiect ASE\ProiectPOO\ProiectPOO\ProiectPOO.h(228,22): warning C4018: '<': signed/unsigned mismatch
+D:\Proiect ASE\ProiectPOO\ProiectPOO\ProiectPOO.h(238,21): warning C4018: '<': signed/unsigned mismatch
+D:\Proiect ASE\ProiectPOO\ProiectPOO\ProiectPOO.h(240,22): warning C4018: '<': signed/unsigned mismatch
+D:\Proiect ASE\ProiectPOO\ProiectPOO\ProiectPOO.h(267,21): warning C4018: '<': signed/unsigned mismatch
+D:\Proiect ASE\ProiectPOO\ProiectPOO\ProiectPOO.h(290,22): warning C4018: '<': signed/unsigned mismatch
+D:\Proiect ASE\ProiectPOO\ProiectPOO\ProiectPOO.h(307,21): warning C4018: '<': signed/unsigned mismatch
+D:\Proiect ASE\ProiectPOO\ProiectPOO\ProiectPOO.h(355,21): warning C4018: '<': signed/unsigned mismatch
+D:\Proiect ASE\ProiectPOO\ProiectPOO\ProiectPOO.h(381,21): warning C4018: '<': signed/unsigned mismatch
+D:\Proiect ASE\ProiectPOO\ProiectPOO\ProiectPOO.h(390,21): warning C4018: '<': signed/unsigned mismatch
+D:\Proiect ASE\ProiectPOO\ProiectPOO\ProiectPOO.h(404,23): warning C4018: '<': signed/unsigned mismatch
+D:\Proiect ASE\ProiectPOO\ProiectPOO\ProiectPOO.h(410,25): warning C4018: '>': signed/unsigned mismatch
+D:\Proiect ASE\ProiectPOO\ProiectPOO\ProiectPOO.h(461,21): warning C4018: '<': signed/unsigned mismatch
+D:\Proiect ASE\ProiectPOO\ProiectPOO\ProiectPOO.h(463,22): warning C4018: '<': signed/unsigned mismatch
+D:\Proiect ASE\ProiectPOO\ProiectPOO\ProiectPOO.h(475,21): warning C4018: '<': signed/unsigned mismatch
+D:\Proiect ASE\ProiectPOO\ProiectPOO\ProiectPOO.h(483,21): warning C4018: '<': signed/unsigned mismatch
+D:\Proiect ASE\ProiectPOO\ProiectPOO\ProiectPOO.h(487,23): warning C4018: '<': signed/unsigned mismatch
+D:\Proiect ASE\ProiectPOO\ProiectPOO\ProiectPOO.h(505,21): warning C4018: '<': signed/unsigned mismatch
+D:\Proiect ASE\ProiectPOO\ProiectPOO\ProiectPOO.h(514,21): warning C4018: '<': signed/unsigned mismatch
+D:\Proiect ASE\ProiectPOO\ProiectPOO\ProiectPOO.h(516,22): warning C4018: '<': signed/unsigned mismatch
+D:\Proiect ASE\ProiectPOO\ProiectPOO\ProiectPOO.h(526,21): warning C4018: '<': signed/unsigned mismatch
+D:\Proiect ASE\ProiectPOO\ProiectPOO\ProiectPOO.h(528,22): warning C4018: '<': signed/unsigned mismatch
+D:\Proiect ASE\ProiectPOO\ProiectPOO\ProiectPOO.h(555,21): warning C4018: '<': signed/unsigned mismatch
+D:\Proiect ASE\ProiectPOO\ProiectPOO\ProiectPOO.h(630,21): warning C4018: '<': signed/unsigned mismatch
+D:\Proiect ASE\ProiectPOO\ProiectPOO\ProiectPOO.h(694,21): warning C4018: '<': signed/unsigned mismatch
+D:\Proiect ASE\ProiectPOO\ProiectPOO\ProiectPOO.h(726,1): warning C4305: 'initializing': truncation from 'int' to 'bool'
+D:\Proiect ASE\ProiectPOO\ProiectPOO\ProiectPOO.h(727,21): warning C4018: '<': signed/unsigned mismatch
+D:\Proiect ASE\ProiectPOO\ProiectPOO\ProiectPOO.h(752,23): warning C4018: '<': signed/unsigned mismatch
+D:\Proiect ASE\ProiectPOO\ProiectPOO\ProiectPOO.h(777,22): warning C4018: '<': signed/unsigned mismatch
+D:\Proiect ASE\ProiectPOO\ProiectPOO\ProiectPOO.h(797,8): warning C4101: 'comanda_char': unreferenced local variable
+D:\Proiect ASE\ProiectPOO\ProiectPOO\ProiectPOO.h(856,21): warning C4018: '<': signed/unsigned mismatch
+D:\Proiect ASE\ProiectPOO\ProiectPOO\ProiectPOO.h(860,22): warning C4018: '<': signed/unsigned mismatch
+D:\Proiect ASE\ProiectPOO\ProiectPOO\ProiectPOO.h(877,21): warning C4018: '<': signed/unsigned mismatch
+D:\Proiect ASE\ProiectPOO\ProiectPOO\ProiectPOO.h(889,23): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\Proiect ASE\ProiectPOO\ProiectPOO\ProiectPOO.h(909,22): warning C4018: '<': signed/unsigned mismatch
+D:\Proiect ASE\ProiectPOO\ProiectPOO\ProiectPOO.h(931,22): warning C4018: '<': signed/unsigned mismatch
+D:\Proiect ASE\ProiectPOO\ProiectPOO\ProiectPOO.h(942,21): warning C4018: '<': signed/unsigned mismatch
+D:\Proiect ASE\ProiectPOO\ProiectPOO\ProiectPOO.h(951,23): warning C4018: '<': signed/unsigned mismatch
+D:\Proiect ASE\ProiectPOO\ProiectPOO\ProiectPOO.h(953,24): warning C4018: '<': signed/unsigned mismatch
+D:\Proiect ASE\ProiectPOO\ProiectPOO\ProiectPOO.h(956,13): warning C4018: '<': signed/unsigned mismatch
+D:\Proiect ASE\ProiectPOO\ProiectPOO\ProiectPOO.h(959,12): warning C4018: '<': signed/unsigned mismatch
+D:\Proiect ASE\ProiectPOO\ProiectPOO\ProiectPOO.cpp(29,21): warning C4018: '<': signed/unsigned mismatch
+  ProiectPOO.vcxproj -> D:\Proiect ASE\ProiectPOO\Debug\ProiectPOO.exe

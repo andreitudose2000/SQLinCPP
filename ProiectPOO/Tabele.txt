@@ -1,0 +1,6 @@
+1
+tabel1
+3
+id integer 10
+nume text 20
+salariu integer 30
