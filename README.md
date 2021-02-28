@@ -22,6 +22,7 @@ col_type can be: integer, float, text
 > DELETE FROM table_name WHERE col_name = input_value
 
 > SELECT (col_name_1, col_name_2, ... col_name_n) FROM table_name [WHERE col_name = input_value]
+
 > SELECT ALL FROM table_name [WHERE col_name = input_value]
 
 > UPDATE table_name SET col_name = input_value WHERE col_name = input_value 
