@@ -3,7 +3,7 @@ C++ OOP code that imitates basic SQL DDL, DML and DQL functionality.
 
 
 This code creates a console application where the user is told the available commands and he can write SQL-like commands. The algorithms will interpret them and execute the appropiate modifications to the created database. The database is stored in the computer when the user exits the console application and loaded when he starts it back again.
-The code is written using C++ and using different OOP concepts.
+The code is written C++ and uses its features: OOP concepts, STL containers, I/O, I/O with files.
 The application uses the Romanian language for its user interface.
 
 **Available commands:**
